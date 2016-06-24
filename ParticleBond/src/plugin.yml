@@ -1,0 +1,6 @@
+main: com.lookcook.particlebond.BondMain
+name: ParticleBonds
+version: 1.0
+commands:
+  bond: 
+    description: Main command.
